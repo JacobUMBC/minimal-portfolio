@@ -12,10 +12,10 @@ export default [
         link: 'https://nhl.com',
     },
     {
-        title: 'Ai Nerf Gun',
-        imgUrl: '/assets/ML.png',
-        stack: ['Python', 'C++', 'Robotics'],
-        link: 'https://chess.com',
+        title: 'Flappy Bird with Ai',
+        imgUrl: '/assets/FlappyBird.png',
+        stack: ['Python', 'NEAT', 'pygame'],
+        link: 'https://github.com/JacobUMBC/Flappy_Bird_AI',
     }
   
 ]
